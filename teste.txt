@@ -1,0 +1,2 @@
+Documentação para uso do Git
+Teste de segundo commit
